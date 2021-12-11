@@ -8,8 +8,10 @@
 > ###### This is sponsored by [shot blasting machine](https://www.shotblastingmachines.in/)
 ![shot blasting machine](https://www.shotblastingmachines.in/images/setting/logo/logo.png)
 
+Create a file inside the folder (project folder) js/javascript.js
+
 ```javascript
-    (() => 
+(() => 
 {
   
     const openNavMenu = document.querySelector(".open-nav-menu"),
